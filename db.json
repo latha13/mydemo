@@ -1,20 +1,15 @@
 [
   {
-      distibutorName: "Ram",
-      purchaseDate: 10-02-1989,
-      installDate: 12-02-1989,
-      customerid: 10
+      "distibutorName": "Ram",
+      "purchaseDate": "10-02-1989",
+      "installDate": "12-02-1989",
+      "customerid": 10
       },
       {
-      distibutorName: "lacky",
-      purchaseDate: 10-02-1989,
-      installDate: 12-02-1989,
-      customerid: 20
-      },
-      {
-      distibutorName: "raghu",
-      purchaseDate: 10-02-1989,
-      installDate: 12-02-1989,
-      customerid: 30
+     "distibutorName": "lacky",
+      "purchaseDate": "1-02-1989",
+      "installDate": "12-02-1989",
+      "customerid": 20
       }
+      
    ]   
